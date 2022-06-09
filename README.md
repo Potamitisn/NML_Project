@@ -17,6 +17,8 @@ The proposed method to run the code of our project is using google colab.The rea
 ```
 |   README.md
 |   network_machine_learning_project.ipynb
+|   network_machine_learning_project.ipynb.zip
+|   NML_Report.pdf
 |
 +---Networks
       DC_2000
@@ -40,10 +42,11 @@ The proposed method to run the code of our project is using google colab.The rea
 
 ```
 
-- `network_machine_learning_project.ipynb`: Notebook containing the whole coding process of the project
+- `network_machine_learning_project.ipynb`: Notebook containing the whole coding process of the project. The outputs have been cleared due to the size of the images.
+- `network_machine_learning_project.ipynb.zip`: A zipped version of our notebook where the outputs have not been cleared. However, due to the size of the images we had to zip it to reduce its size.
 - `Networks`: Folder containing 4 subfolders. Each of these subfolders corresponds to a .js template/interactive graph for each dataset. They are just there so we can host our interactive graph plots on github pages.
 - `project`: Folder to be downloaded along the notebook.
-- `data`: Folder containing the provided data of the project.
+- `data`: Folder containing the provided data for the project. Due to privacy reasons we haven't uploaded the actual parquet files.
 - `features`: Folder where we stored the features used for the classification part (just in case the user prefers to load them directly to save time).
 - `gexf_files`: Folder contatining all the gexf files corresponding for each graph that we created along the project. 
 - `graphs`: Folder containing the adjacency matrices for needed graphs (just in case the user prefers to load them directly to save time).
