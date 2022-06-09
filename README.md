@@ -1,4 +1,5 @@
 # NML_Project
+This is our submission for the final project of the Network Machine Learning at EPFL 2022. You can visit our github repository [here](https://github.com/Potamitisn/NML_Project)
 
 ## Table of Contents
 1. [Instructions](#Instructions)
