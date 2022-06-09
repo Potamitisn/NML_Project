@@ -1,10 +1,12 @@
 # NML_Project
-This is our submission for the final project of the Network Machine Learning at EPFL 2022. You can visit our github repository [here](https://github.com/Potamitisn/NML_Project)
+This is our submission for the final project of the Network Machine Learning at EPFL 2022. You can visit our github repository [here](https://github.com/Potamitisn/NML_Project) and our google drive [here](https://drive.google.com/drive/folders/1kD9TzG5XSjifvF5h2nIBNbqlyobuExj2).
 
 ## Table of Contents
 1. [Instructions](#Instructions)
 2. [Repo organization](#Repo_organization)
-3. [Authors](#Authors)
+3. [Interactive graphs](#graphs)
+4. [Authors](#Authors)
+
 
 ## Instructions <a name="Instructions"></a>
 The proposed method to run the code of our project is using google colab.The reason is that free gpu is provided which we can use in the later part of this report to speed up our GNN learning process. There are the steps you need to follow in order to reproduce our results : 
@@ -52,6 +54,12 @@ The proposed method to run the code of our project is using google colab.The rea
 - `gexf_files`: Folder contatining all the gexf files corresponding for each graph that we created along the project. 
 - `graphs`: Folder containing the adjacency matrices for needed graphs (just in case the user prefers to load them directly to save time).
 - `images`: Folder containing the static images of the visualized graphs.
+
+## Interactive Graphs <a name="graphs"></a>
+- [Marvel 2000](https://potamitisn.github.io/NML_Project/Networks/Marvel_2000/)
+- [Marvel 2001](https://potamitisn.github.io/NML_Project/Networks/Marvel_2001/)
+- [DC 2000](https://potamitisn.github.io/NML_Project/Networks/DC_2000/)
+- [DC 2001](https://potamitisn.github.io/NML_Project/Networks/DC_2001/)
 
 ## Authors <a name="Authors"></a>
 - Bohan Wang
