@@ -19,7 +19,6 @@ The proposed method to run the code of our project is using google colab.The rea
 ## Repo Organization <a name="Repo_organization"></a>
 ```
 |   README.md
-|   network_machine_learning_project.ipynb
 |   network_machine_learning_project.ipynb.zip
 |   NML_Report.pdf
 |
@@ -31,6 +30,7 @@ The proposed method to run the code of our project is using google colab.The rea
 |
 |
 +---project
+    |   network_machine_learning_project.ipynb
     |
     +---data
           dc_2000-2001.parquet
@@ -45,8 +45,8 @@ The proposed method to run the code of our project is using google colab.The rea
 
 ```
 
-- `network_machine_learning_project.ipynb`: Notebook containing the whole coding process of the project. The outputs have been cleared due to the size of the images.
 - `network_machine_learning_project.ipynb.zip`: A zipped version of our notebook where the outputs are still there. However, due to the size of the images we had to zip it to reduce its size. You can also find the same notebook (not zipped) in our google drive too. 
+- `network_machine_learning_project.ipynb`: Notebook containing the whole coding process of the project. The outputs have been cleared due to the size of the images.
 - `Networks`: Folder containing 4 subfolders. Each of these subfolders corresponds to a .js template/interactive graph for each dataset. They are just there so we can host our interactive graph plots on github pages.
 - `project`: Folder to be downloaded along the notebook.
 - `data`: Folder containing the provided data for the project. Due to privacy reasons we haven't uploaded the actual parquet files.
